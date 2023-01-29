@@ -2,6 +2,10 @@
 
 This project provides a script for indexing text documents in Elasticsearch using the \_bulk method, without the use of machine learning. The documents are organized by category and are contained in a folder named "bbc" in the current directory. The "bbc" folder referenced in this code is based on the dataset used in the paper "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering" by D. Greene and P. Cunningham. This dataset, which was published in the Proceedings of ICML 2006, consists of text documents organized by category.
 
+## Further Information
+For more detailed information on this project, see the following Medium article:
+- [Classifying Text with Elasticsearch: A No-ML Approach](https://medium.com/@mhdabdel151/classifying-text-with-elasticsearch-a-no-ml-approach-part3-d77cab8ac4a)
+
 ## Requirements
 
 - Python 3

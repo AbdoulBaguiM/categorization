@@ -21,7 +21,7 @@ Make sure to have the "bbc" folder containing your text documents, organized by 
 
 Run the script
 
-    python classify.py
+    python script.py
 
 The response from Elasticsearch will be printed to the console for debugging purposes.
 
